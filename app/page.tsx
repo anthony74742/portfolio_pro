@@ -2,7 +2,6 @@ import Hero from "@/components/hero"
 import Resume from "@/components/resume"
 import Skills from "@/components/skills"
 import Projects from "@/components/projects"
-import Contact from "@/components/contact"
 import Footer from "@/components/footer"
 
 export default function Home() {
